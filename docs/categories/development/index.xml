@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Jupyter Notebook on Jupyter Notebook </title>
+      <title>Development on Jupyter Notebook </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>https://mjstealey.github.io/jupyter-notebook/</link>
+    <link>https://mjstealey.github.io/jupyter-notebook/categories/development/</link>
     <language>en-us</language>
     
     

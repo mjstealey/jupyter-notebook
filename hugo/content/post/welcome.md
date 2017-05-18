@@ -1,5 +1,9 @@
 +++
-date = "2017-05-18T13:45:47-04:00"
+Categories = ["Development","GoLang"]
+Description = "Jupyter Notebook welcome page"
+Tags = ["Development","golang"]
+date = "2017-05-18T14:14:42-04:00"
+menu = "main"
 title = "Welcome to Jupyter Notebook"
 
 +++

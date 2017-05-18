@@ -9,5 +9,23 @@
     
     <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
     
+    <item>
+      <title>Development</title>
+      <link>https://mjstealey.github.io/jupyter-notebook/categories/development/</link>
+      <pubDate>Thu, 18 May 2017 14:14:42 EDT</pubDate>
+      
+      <guid>https://mjstealey.github.io/jupyter-notebook/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://mjstealey.github.io/jupyter-notebook/categories/golang/</link>
+      <pubDate>Thu, 18 May 2017 14:14:42 EDT</pubDate>
+      
+      <guid>https://mjstealey.github.io/jupyter-notebook/categories/golang/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
