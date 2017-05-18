@@ -1,0 +1,5 @@
+baseURL = "https://mjstealey.github.io/jupyter-notebook"
+languageCode = "en-us"
+title = "Jupyter Notebook"
+theme = "hugo-uno"
+publishDir = "../docs"
